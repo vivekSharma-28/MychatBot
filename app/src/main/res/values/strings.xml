@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My ChatBot</string>
+    <string name="about_gpt">ChatGPT or My ChatBot, which stands for Chat Generative Pre-trained Transformer, is a large language model–based chatbot developed by OpenAI and launched on November 30, 2022.</string>
+    <string name="hint">hint</string>
+    <string name="warning_message"><b>Chat bot error message</b> \n\n A chat-bot error message, also known as a fallback error response or failure message, is triggered when the chat-bot does\'t understand the user\'s question.\n<b>So if such condition occur please calm yourself and Please ask the question again.</b></string>
+
+</resources>
